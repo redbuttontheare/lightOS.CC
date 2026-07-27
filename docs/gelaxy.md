@@ -1,4 +1,5 @@
-# Gelaxy window meneger dev documentation
+# Gelaxy
+## Window meneger
 
 ### Dynamic Tabs (Since v13.2)
 
