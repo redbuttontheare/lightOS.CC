@@ -91,7 +91,16 @@ const config = {
                 label: 'GitHub 𐬹 lightOS',
                 href: 'https://github.com/redbuttontheare/lightOS',
               },
-
+          
+            ],
+          },
+          {
+            title: 'Special Thanks:',
+            items: [
+              {
+                label: 'SquidDev for domain(lightos.madefor.cc)',
+                href: 'https://squiddev.cc/',
+              },
             ],
           },
         ],
