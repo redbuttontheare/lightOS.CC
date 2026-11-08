@@ -32,7 +32,11 @@ export default function Home() {
   const {siteConfig} = useDocusaurusContext();
   return (
     <Layout>
-      <HomepageHeader />
+      <HomepageHeader>
+                    <div className="container">
+                      <p1 style="color: blue;">Thanks SquidDev for domain(lightos.madefor.cc)</p1>
+                    </div>
+      </HomepageHeader>
     </Layout>
   );
 }
