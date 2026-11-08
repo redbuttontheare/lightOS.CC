@@ -101,6 +101,10 @@ const config = {
                 label: 'SquidDev for domain(lightos.madefor.cc)',
                 href: 'https://squiddev.cc/',
               },
+              {
+                label: "Ivan for selecting lightOS to XERJ",
+                href: 'https://xerj.org/',
+              },
             ],
           },
         ],
